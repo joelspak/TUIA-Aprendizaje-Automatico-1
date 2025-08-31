@@ -207,11 +207,11 @@ marimo/_lsp/
 __marimo__/
 
 
-
-*.csv
 *.tsv
 *.gz
 *.pdf
 *.pptx
 Trabajos Prácticos
 Bibliografia
+*.vehicle_data*
+*car*
